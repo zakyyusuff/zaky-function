@@ -1,6 +1,6 @@
 import pytest
 # from tests import dikalikan_dua, dibagi_dua
-from tests.mymodule.funcs import multiply, divide
+from mymodule.funcs import multiply, divide
 
 
 def dikalikan_dua(x):
