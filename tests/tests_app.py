@@ -7,7 +7,6 @@ def dikalikan_dua():
 def dibagi_dua(x):
     return divide()
 
-@pytest.fixture
 def numbers():
     a = 10
     b = 20
