@@ -1,5 +1,4 @@
 import pytest
-# from tests import dikalikan_dua, dibagi_dua
 from mymodule.funcs import multiply, divide
 
 
