@@ -1,11 +1,11 @@
 import pytest
 from mymodule.funcs import multiply, divide
 
-def dikalikan_dua(x):
-    return multiply(x, 2)
+def dikalikan_dua():
+    return multiply()
 
 def dibagi_dua(x):
-    return divide(x, 2)
+    return divide()
 
 @pytest.fixture
 def numbers():
